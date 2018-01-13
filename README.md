@@ -16,7 +16,7 @@ int main()
 1. Name: `Kantachart LOhajoti`
 2. Student ID: `600610720`
 3. Section: `02`
-4. Age: ``
+4. Age: `19`
 5. Your programming skill (0-5): `3`
 6. Expected grade of this course: `B+`
 7. Message to lecturers or TAs: `Nope`
